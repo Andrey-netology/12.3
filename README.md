@@ -12,7 +12,8 @@
     Фронтенд  - 2 ГБ
     Бекенд - 5 ГБ
 
-
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/12.3/blob/main/1.1.JPG "Logo Title Text 1")
 
 Итого требуется ресурсов: 
 
